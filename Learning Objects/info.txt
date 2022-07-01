@@ -1,0 +1,9 @@
+Ford
+296000
+white
+2600
+5
+sequential
+650
+4000
+2,0L Ecoboost, 4 cylinder

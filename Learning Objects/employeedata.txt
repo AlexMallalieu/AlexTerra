@@ -1,0 +1,14 @@
+name,phone,email,address,postalZip,region,country,age,department,salary,bonus,programmingLanguage,subject,boss,fullorpart,tax
+Roanna Mann,1-596-637-1626,amet@aol.com,Ap #428-5036 Luctus Ave,3694-0558,Goa,Brazil,25,IT,94000.34,N/A,Python,N/A,Roanna,full,0.1
+Jaden Taylor,1-235-251-3736,pretium@protonmail.org,Ap #108-1556 Aliquam St.,965176,Guainía,South Korea,30,IT,56000.54,N/A,Python,N/A,Roanna,full,0.1
+Barry Langley,1-424-343-4458,velit.dui.semper@google.com,"P.O. Box 185 6079 Convallis Rd.",193237,Gävleborgs län,United States,80,Admin,90000.45,20000,N/A,N/A,N/A,full,0.1
+Jana Gallagher,(462) 146-9957,tortor.at@hotmail.com,7814 Leo Rd.,16654,Bangka Belitung Islands,Spain,72,Admin,110000.99,1000,N/A,N/A,N/A,full,0.1
+Kiona Harrington,(813) 691-7491,elit@google.net,6358 In Av.,14-455,Alaska,Australia,53,IT,130000.45,N/A,Java,N/A,Roanna,full,0.1
+Vera Lindsay,(564) 601-4688,feugiat.placerat.velit@protonmail.net,Ap #179-4578 Accumsan Rd.,89778-599,Imo,Poland,37,Communications,19000.45,N/A,N/A,N/A,Roanna,part,0.1
+Liberty Barnes,(545) 730-1626,at.lacus.quisque@icloud.org,Ap #164-6428 Aliquam Rd.,46-398,North Gyeongsang,Belgium,29,Communications,54012.45,N/A,N/A,N/A,Roanna,part,0.1
+Hamish Carroll,1-321-256-2482,consequat.auctor@protonmail.com,768-2414 Cras Rd.,0458,Ceuta,Poland,45,HR,45012.02,N/A,N/A,N/A,Roanna,full,0.1
+Vivien Weeks,(385) 547-6342,velit.eu.sem@hotmail.com,Ap #425-6839 Gravida Avenue,5619,Jönköpings län,Canada,42,HR,65000.01,N/A,N/A,N/A,Roanna,full,0.1
+Jerry Fleming,(783) 948-2486,blandit.nam.nulla@outlook.edu,Ap #875-2524 Sodales Street,77822,West Region,Costa Rica,62,Communications,68000.00,N/A,N/A,N/A,Roanna,part,0.1
+Alden Cannon,(356) 327-6396,urna@hotmail.couk,Ap #204-5972 Cum Road,50208,Vlaams-Brabant,Belgium,19,Teacher,56000.00,N/A,N/A,English,Roanna,full,0.1
+Whoopi Morgan,1-140-776-3873,at@yahoo.org,7566 Tempus Ave,5103,Leningrad Oblast,Philippines,42,Teacher,67000.98,N/A,N/A,Computer Science,Roanna,part,0.1
+Emma Morales,1-484-592-4597,dolor.egestas@aol.com,2164 Malesuada Ave,31978,Meta,Netherlands,43,Teacher,45000.45,N/A,N/A,Math,Roanna,full,0.1
